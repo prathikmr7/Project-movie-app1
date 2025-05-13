@@ -10,7 +10,7 @@ pipeline{
  stages{
   stage('git-checkout'){
    steps{
-    git branch: 'main', url: 'https://github.com/prathikmr7/Project-Movie-App.git'
+    git branch: 'main', url: 'https://github.com/prathikmr7/Project-movie-app1.git'
    }
   }
   stage('compile'){
