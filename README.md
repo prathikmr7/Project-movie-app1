@@ -1,4 +1,4 @@
-# This is Complete Proj
+# This is Complete Integration of Maven Project
 
 ![](https://github.com/prathikmr7/Project-movie-app1/blob/images/Screenshot%202025-05-21%20065236.png?raw=true)
 
@@ -176,6 +176,10 @@ Complete Stage Pipeline view of the Build.
 We can see the Trivy Codescan report in Jenkins console ouput
 ![](https://github.com/prathikmr7/Project-movie-app1/blob/images/Screenshot%202025-05-24%20163136.png?raw=true)
 SonarQube view of Complete code scan
+
+![](https://github.com/prathikmr7/Project-movie-app1/blob/images/Screenshot%202025-05-24%20160227.png?raw=true)
+We can see the Web application is loaded.
+
 ![](https://github.com/prathikmr7/Project-movie-app1/blob/images/Screenshot%202025-05-24%20163410.png?raw=true)
 We can see the docker hub repository.
 ![]()
